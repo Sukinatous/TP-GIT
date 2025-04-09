@@ -1,0 +1,11 @@
+Pourquoi les développeurs n’aiment pas sortir avec des boulangers ?
+Parce qu’ils détestent les conflits de pain !
+
+Pourquoi Git est-il toujours calme ?
+Parce qu’il sait comment gérer ses conflits !
+
+Quelle est la commande préférée d’un chat développeur ?
+git meow
+
+Pourquoi les commits ne vont jamais à la gym ?
+Parce qu’ils préfèrent rester stables !
